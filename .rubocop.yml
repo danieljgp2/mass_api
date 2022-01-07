@@ -1,0 +1,6 @@
+AllCops:
+  SuggestExtensions: false
+  Exclude:
+    - 'bin/*'
+    - 'lib/**/*'
+    - 'db/schema.rb'
